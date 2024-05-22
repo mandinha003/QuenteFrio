@@ -50,9 +50,7 @@ while(palpite != sorteado)
             Colorir(maiorOuMenor ? "alto" : "baixo", maiorOuMenor ? ConsoleColor.DarkYellow : ConsoleColor.DarkMagenta);
             Console.WriteLine(".");
         }
-            
-
-         
+             
     }
 
   
