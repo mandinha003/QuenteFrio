@@ -6,7 +6,6 @@ Console.WriteLine("----QuenteFrio----");
 Console.WriteLine("\nTente acertar o número sorteado pelo jogo de 1 A 100");
 Console.WriteLine("Você terá 7 tentativas para acertar!\n");
 
-
 int palpite = 0;
 int tentativa = 1;
 int sorteado;
